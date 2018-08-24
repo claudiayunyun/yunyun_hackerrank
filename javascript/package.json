@@ -1,0 +1,19 @@
+{
+  "name": "tendaysofjavascript",
+  "version": "1.0.0",
+  "description": "This is a Javascript Practice from HackerRank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiayunyun/yunyun_hackerrank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiayunyun/yunyun_hackerrank/issues"
+  },
+  "homepage": "https://github.com/claudiayunyun/yunyun_hackerrank#readme"
+}
