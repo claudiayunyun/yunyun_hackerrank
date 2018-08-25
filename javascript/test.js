@@ -1,4 +1,5 @@
-var a = 10;
-var b = 20;
+// Day0 HelloWorld.js
+console.log('Hello ');
 
-console.log(a+b);
+let greeting = 'World!';
+console.log('Hello ' + greeting);
