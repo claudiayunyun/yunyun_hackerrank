@@ -16,3 +16,5 @@ $variable
 ## Optional Semicolon  
 Quoted from : https://www.hackerrank.com/challenges/js10-hello-world/topics   
 Like many programming languages, JavaScript uses the semicolon (;) to separate statements from each other. This is important as it makes the meaning of your code clear; without a separator, the end of one statement might appear to be the beginning of the next (and vice versa). In JavaScript, you can usually omit the semicolon between two statements as long as those statements are written on separate lines.
+## Data Types  
+Quoted from : https://www.hackerrank.com/challenges/js10-data-types/topics  
