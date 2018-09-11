@@ -5,7 +5,10 @@
 # If this file is being imported from another module, 
 # __name__ will be set to the module’s name. 
 # Module’s name is available as value to __name__ global variable.
-# 
+# Python files can act as either reusable modules, or as standalone programs.
+# if __name__ == “main”: is used to execute some code only if the file was run directly, and not imported.
+#
+#
 
 
 # Python program to execute  
