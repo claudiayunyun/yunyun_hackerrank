@@ -34,3 +34,8 @@ for (var i of arr) {
    console.log(i); // logs 3, 5, 7
 }
 ~~~~
+
+## Unit Test Framework in JavaScript and How to choose?  
+Quote from: https://raygun.com/blog/javascript-unit-testing-frameworks/  
+5 Frameworks: Jasmine, Mocha, AVA, Tape and Jest  
+Trying to use Mocha...  
